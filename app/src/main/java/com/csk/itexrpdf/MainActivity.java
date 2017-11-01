@@ -6,9 +6,7 @@ import android.util.Log;
 
 import com.itextpdf.text.Document;
 import com.itextpdf.text.DocumentException;
-import com.itextpdf.text.Element;
 import com.itextpdf.text.PageSize;
-import com.itextpdf.text.Paragraph;
 import com.itextpdf.text.pdf.PdfWriter;
 
 import java.io.FileNotFoundException;
@@ -43,13 +41,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void writeSampleText() {
-        try {
+     /*   try {
             Paragraph paragraph = new Paragraph("<HTML><BODY>HEY</BODY></HTML>", Util.FONT_MODEL_NAME);
             paragraph.setAlignment(Element.ALIGN_CENTER);
             mDocument.add(paragraph);
         } catch (DocumentException e) {
             e.printStackTrace();
-        }
+        }*/
     }
 
     private void closePDF() {

@@ -1,0 +1,10 @@
+
+}squid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "file".(‘ÙŠİÿÿÿÿÿ8²ë€¾÷+
+Ksquid:S00108")Either remove or fill this block of code.(™¿æøÿÿÿÿ8²ë€¾÷+
+"squid:ClassVariableVisibilityCheck"[Make FONT_MODEL_NAME a static final constant or non-public and provide accessors if needed.(ÓŸ‰Ù8²ë€¾÷+
+Qsquid:S1444"5Make this "public static FONT_MODEL_NAME" field final(ÓŸ‰Ù8²ë€¾÷+
+Fsquid:S1166"%Either log or rethrow this exception.(™¿æøÿÿÿÿ8²ë€¾÷+
+vsquid:S3008"ZRename this field "FONT_MODEL_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓŸ‰Ù8²ë€¾÷+
+osquid:S3008"SRename this field "DIR_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üœÒµ8²ë€¾÷+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(×¼­Æ8²ë€¾÷+
+xsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÈõ€ûÿÿÿÿ8²ë€¾÷+

@@ -1,0 +1,7 @@
+
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“æ†øÿÿÿÿ
+lsquid:S00116"VRename this field "MODEL_IMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûïĞ
+Bsquid:S1068"-Remove this unused "mDocument" private field.(×ŠôÜ
+psquid:S00116"URename this field "MODEL_LOGO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¢Œüúÿÿÿÿ
+Dsquid:S1068"/Remove this unused "MODEL_IMAGE" private field.(ûïĞ
+Hsquid:S1068".Remove this unused "MODEL_LOGO" private field.(†¢Œüúÿÿÿÿ

@@ -16,7 +16,7 @@ import java.io.File;
  */
 public class Util {
 
-    public static Font FONT_MODEL_NAME = new Font(Font.FontFamily.HELVETICA, 32.0f, Font.BOLD, BaseColor.BLACK);
+    public static Font FONT_MODEL_NAME = new Font(Font.FontFamily.TIMES_ROMAN, 32.0f, Font.BOLD, BaseColor.BLACK);
 
 
     private static String DIR_PATH = Environment.getExternalStorageDirectory().getAbsolutePath();
@@ -46,8 +46,6 @@ public class Util {
         Intent intent = Intent.createChooser(target, "Open File");
         try {
             context.startActivity(intent);
-        } catch (ActivityNotFoundException e) {
-            // Instruct the user to install a PDF reader here, or something
-        }
+        } catch (ActivityNotFoundException e) {}
     }
 }

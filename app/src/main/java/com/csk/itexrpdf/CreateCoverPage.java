@@ -17,7 +17,5 @@ public class CreateCoverPage {
         mDocument = document;
     }
 
-    public void create() {
-
-    }
+    public void create() {}
 }

@@ -1,0 +1,8 @@
+
+?squid:S1166"%Either log or rethrow this exception.(ÿ‰À¾üÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(‹±ÃÆ
+Ysquid:S2147"DCombine this catch with the one at line 36, which has the same body.(‹±ÃÆ
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½‘Ñ³8Êú†¾÷+
